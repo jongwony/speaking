@@ -208,6 +208,8 @@ git clone https://github.com/aws/aws-cli.git
 python -m aws-cli.awscli
 ```
 
+---
+
 # python argparse
 
 `main` 함수를 찾고,
@@ -424,6 +426,7 @@ github star 레포의 태그도 연동하는 것도 괜찮은 듯
 
 - https://docs.python.org/3/library/argparse.html#sub-commands
 - https://github.com/aws/aws-cli
+- https://stackoverflow.com/questions/49038616/argparse-subparsers-with-functions
 
 # Sources
 
